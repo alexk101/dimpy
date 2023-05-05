@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "dimpy"
+name = "dimredpy"
 version = "1.0.0"
 description = "Dimensionality reduction techniques in python, built on JAX"
 authors = ["Alex Kiefer <alkiefer@iu.edu>"]
@@ -22,4 +22,4 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [project.urls]
-"Homepage" = "https://github.com/alexk101/dimpy"
+"Homepage" = "https://github.com/alexk101/dimredpy"
