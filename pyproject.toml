@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dimredpy"
-version = "1.0.0"
+version = "1.0.1"
 description = "Dimensionality reduction techniques in python, built on JAX"
 authors = ["Alex Kiefer <alkiefer@iu.edu>"]
 license = "MIT"
